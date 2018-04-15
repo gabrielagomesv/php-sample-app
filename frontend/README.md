@@ -2,7 +2,7 @@
 
 ## 1. Estrutura do Dockerfile
 
-Foi criado um documento um arquivo **Dockerfile** na pasta "php-sample-app/frontend". Neste arquivo é possível encontrar os comandos de instrução usados para criar um build de uma imagem do Docker e também executar instâncias de containers.
+Foi criado um arquivo **Dockerfile** na pasta "php-sample-app/frontend". Neste arquivo é possível encontrar os comandos de instrução usados para criar um build de uma imagem do Docker e também executar instâncias de containers.
 
 #### 1.1 O Dockerfile do "php-sample-app/frontend"
 
