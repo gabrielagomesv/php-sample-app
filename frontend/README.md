@@ -6,20 +6,20 @@ Foi criado um arquivo **Dockerfile** na pasta "php-sample-app/frontend". Neste a
 
 #### 1.1 O Dockerfile do "php-sample-app/frontend"
 
-> De onde esta vindo a img
+De onde esta vindo a img
 
 > **FROM php:7.2-apache**
 
-> Instalando extensoes do php
-> Permite o mysqli conectar com o BD
+Instalando extensoes do php
+Permite o mysqli conectar com o BD
 
 > **RUN docker-php-ext-install mysqli**
 
-> Diretorio de execucao da aplicacao
+Diretorio de execucao da aplicacao
 
 > **WORKDIR /var/www/html/**
 
-> Copia o conteudo PHP todo que esta neste diretorio para a web
+Copia o conteudo PHP todo que esta neste diretorio para a web
 
 > **COPY . /var/www/html/**
 
