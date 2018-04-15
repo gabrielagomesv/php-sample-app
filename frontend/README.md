@@ -26,8 +26,8 @@ Copia o conteudo PHP todo que esta neste diretório para a web.
 
 ## 2. Build da imagem "php-sample-app/frontend"
 
-Uma imagem Docker é blocos de containers em execução.
-Para executar um container é preciso contruir a imagem inicialmente.
+Uma imagem Docker são blocos de containers em execução.
+Para executar um container é preciso construir a imagem inicialmente.
 
 #### 2.2 Comandos
 
