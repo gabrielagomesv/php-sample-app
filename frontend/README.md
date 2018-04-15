@@ -14,7 +14,7 @@ Instalando extensões do php. Permite o mysqli conectar com o BD.
 
 > **RUN docker-php-ext-install mysqli**
 
-Diretorio de execução da aplicação
+Diretório de execução da aplicação.
 
 > **WORKDIR /var/www/html/**
 
