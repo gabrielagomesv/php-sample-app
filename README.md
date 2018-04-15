@@ -16,3 +16,11 @@ A estrutura foi criada com base nas seguintes tags:
 
 - frontend-0.1: Versão de testes SEM conexão com o banco para a primeira parte da NAC;
 - stable:  Versão COM as linhas de conexão com o banco configuradas, será necessário que o MySQL esteja operante para testes faltando apenas a criação do Dockerfile da aplicação/mysql;
+
+---
+
+## Execução do projeto
+
+#### 1. Execução dos containers de frontend e backend
+
+#### 2. Componentes (statefull e stateless)
