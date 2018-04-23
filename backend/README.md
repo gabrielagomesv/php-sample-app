@@ -6,7 +6,7 @@ Foi criado um arquivo **Dockerfile** na pasta "php-sample-app/backend". Neste ar
 #### 1.1 O Dockerfile do "php-sample-app/backend"
 
 Imagem utilizada para base. Utilizando a ultima versao
-> **FROM mysql:latest**
+> **FROM mysql:5.7**
 
 Copia tudo do diretório corrente
 > **COPY ./demo.sql /docker-entrypoint-initdb.d/**
