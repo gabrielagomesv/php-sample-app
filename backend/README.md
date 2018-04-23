@@ -13,7 +13,7 @@ Copia tudo do diretório corrente
 
 ## 2. Pull da imagem do PHP com Apache e MYSQL
 
-Utilizando o Docker CLI, iremos fazer o pull da imagem do PHP com Apache e do MYSQL. Já no diretório do "backend", execute os seguintes comandos:
+Utilizando o Docker CLI, iremos fazer o pull da imagem do PHP com Apache e do MYSQL. **Já no diretório do "backend"**, execute os seguintes comandos:
 
 Pull da imagem do PHP com o Apache
 
