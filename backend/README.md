@@ -21,7 +21,7 @@ Pull da imagem do PHP com o Apache
 
 Pull da imagem do MYSQL em sua última versão
 
-> **docker pull mysql:latest**
+> **docker pull mysql:5.7**
 
 ## 3. Build da imagem do MYSQL
 
