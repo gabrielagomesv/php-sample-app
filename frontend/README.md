@@ -31,7 +31,7 @@ Para executar um container é preciso construir a imagem inicialmente.
 
 #### 2.1 Comandos
 
-Observações: os comandos a seguir devem ser feitos utilizando o Docker CLI.
+Observações: os comandos a seguir devem ser feitos utilizando o Docker CLI e **você deve estar no diretório do Frontend**.
 
 O primeiro trata-se da build da imagem. O "-t" é a tag ou nome que foi dado a imagem e"frontend-php" é o nome que escolhemos para ela. Os números após os ":" é a versão da imagem.
 
