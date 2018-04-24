@@ -54,3 +54,7 @@ O Build
 Fazer a comunicação entre o backend e o frontend
 
 > **docker run -d -p 80:80 --name frontend --link backend frontend:0.0.1**
+
+**Para verificar se houve sucesso na execução, acesse o endereço localhost (caso seja windows): **http://192.168.99.100/**
+
+Nesse momento, você deve ser capaz de ver a aplicação funcionando sem mensagens de erro. Caso exista problemas com a execução, tente criar um novo build sem nomes (--name). Esse comando pode causar conflitos.

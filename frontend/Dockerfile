@@ -1,4 +1,4 @@
-# De onde esta vindo a img
+# De onde esta vindo a imagem PHP e qual a versão utilizada.
 FROM php:7.2-apache
 
 # Instalando extensoes do php
